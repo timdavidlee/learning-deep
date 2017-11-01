@@ -1,12 +1,12 @@
 # Distributed Computing
 ### Unofficial Website
 
-####Lecture Notes
+#### Lecture Notes
 - [Lecture 1](MSAN694-Lec1-Notes.ipynb)
 - [Lecture 2](MSAN694-Lec2-Notes.ipynb)
 
 
-####Lecture Slides
+#### Lecture Slides
 - [Slides1](lecture_slides/MSAN694_Week1_Updated.pdf)
 - [Slides2](lecture_slides/MSAN694_Week2.pdf)
 
