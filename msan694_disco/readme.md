@@ -5,14 +5,14 @@
 - [Lecture 1](MSAN694-Lec1-Notes.ipynb)
 - [Lecture 2](MSAN694-Lec2-Notes.ipynb)
 - [Lecture 3](MSAN694-Lec3-Notes.ipynb)
-- [Lecture 4](MSAN694-Lec3-Notes.ipynb)
+- [Lecture 4](MSAN694-Lec4-Notes.ipynb)
 
 
 #### Lecture Slides
 - [Slides1](lecture_slides/MSAN694_Week1_Updated.pdf)
 - [Slides2](lecture_slides/MSAN694_Week2.pdf)
-- [Slides2](lecture_slides/MSAN694_Week2.pdf)
-- [Slides2](lecture_slides/MSAN694_Week2.pdf)
+- [Slides3](lecture_slides/MSAN694_Week3.pdf)
+- [Slides4](lecture_slides/MSAN694_Week4.pdf)
 
 #### Examples:
 
