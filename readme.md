@@ -9,10 +9,10 @@ def learn_deep():
 	return knowledge
 ```
 
-[Distributed Computing MSAN694](msan694_disco/readme.md)
+[Distributed Computing MSAN694](msan694_disco/)
 
-[Deep Learning 1 by Jeremy Howard](deeplearning1/readme.md) 
+[Deep Learning 1 by Jeremy Howard](deeplearning1/) 
 
-[Machine Learning by Jeremy Howard](msan621_ml1/readme.md) 
+[Machine Learning by Jeremy Howard](msan621_ml1/) 
 
-[Deep Learning by Coursera, Courses 1-3 notes ](coursera) 
+[Deep Learning by Coursera, Courses 1-3 notes](coursera/) 
