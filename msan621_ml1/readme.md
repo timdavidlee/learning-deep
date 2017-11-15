@@ -3,7 +3,7 @@
 
 #### Lecture Notes
 | Week | Lecture | Desc| 
-| ---- | -------- | ----|
+| ---- | -------- | ------------------|
 |1| | |
 |2 | Intro / Setup <br>[Lecture 2](ML-Lecture2.ipynb)||
 |3|[Lecture 3](ML-Lecture3.1.ipynb) <br>[Lecture 4](ML-Lecture3.2-public.ipynb)||
