@@ -6,6 +6,7 @@
 - [Lecture 2](MSAN694-Lec2-Notes.ipynb)
 - [Lecture 3](MSAN694-Lec3-notes.ipynb)
 - [Lecture 4](MSAN694-Lec4-Notes.ipynb)
+- [Lecture 5](MSAN694-Lec5-Notes.ipynb)
 
 
 #### Lecture Slides
