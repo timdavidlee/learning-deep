@@ -14,9 +14,9 @@
 
 ### Live Course Notes (7 Weeks)
 
-- [Lecture 1 Notes](DeepLearning-Lesson1.md)
-- Lecture 2 Notes
-- Lecture 3 Notes
+- [Lecture 1 Notes](DeepLearning1-LectureNotes.ipynb)
+- [Lecture 2 Notes](DeepLearning2-LectureNotes.ipynb)
+- [Lecture 3 Notes](DeepLearning3-LectureNotes.ipynb)
 
 
 ### Other Notes
