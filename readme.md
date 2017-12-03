@@ -13,7 +13,7 @@ def learn_deep():
 Covers Spark, Spark storage, working with RDD, pyspark, map-reduce framework and implementations. Focuses on ETL across different partitions.
 
 ### [Deep Learning 1 by Jeremy Howard](deeplearning1/) 
-Part of the evening course taught by jeremy howard. Starts with CNN and works backwards through the deeper parts of neural networks.
+Part of the evening course taught by [Jeremy Howard](https://twitter.com/jeremyphoward). Starts with CNN and works backwards through the deeper parts of neural networks.
 
 ### [Machine Learning by Jeremy Howard](msan621_ml1/) 
 Approaching classification from the perspective of 
