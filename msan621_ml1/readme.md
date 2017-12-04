@@ -45,7 +45,7 @@ Welcome to the MSAN 2017 Machine Learning 1 unofficial lecture notes website. I'
 ---
 
 
-### [Lecture 5 Notes](ML-Lecture4.1-public.ipynb)
+### [Lecture 5 Notes](ML-Lecture4.1.ipynb)
 - Summary of Random Forests
 	- Data needs to be numeric
 	- Categories go to numbers
@@ -69,7 +69,7 @@ Welcome to the MSAN 2017 Machine Learning 1 unofficial lecture notes website. I'
 ---
 
 
-### [Lecture 6 Notes](ML-Lecture4.2-public.ipynb)
+### [Lecture 6 Notes](ML-Lecture4.2.ipynb)
 - What makes a good validation set?
 - What makes a good test set?
 - Random Forest from scratch : setup framework
@@ -77,7 +77,7 @@ Welcome to the MSAN 2017 Machine Learning 1 unofficial lecture notes website. I'
 ---
 
 
-### [Lecture 7 Notes](ML-Lecture5.1-public.ipynb)
+### [Lecture 7 Notes](ML-Lecture5.1.ipynb)
 - Motivations for data science
 - Thinking about the business implications
 - Tell the story
@@ -86,7 +86,7 @@ Welcome to the MSAN 2017 Machine Learning 1 unofficial lecture notes website. I'
 ---
 
 
-### [Lecture 8 Notes](ML-Lecture5.2-public.ipynb)
+### [Lecture 8 Notes](ML-Lecture5.2.ipynb)
 - Building a Decision Tree from scratch
 - Optimizing and comparing to SKlearn
 - How to do 2 levels of decision trees
@@ -97,7 +97,7 @@ Welcome to the MSAN 2017 Machine Learning 1 unofficial lecture notes website. I'
 ---
 
 
-### [Lecture 9 Notes](ML-Lecture6.1-public.ipynb)
+### [Lecture 9 Notes](ML-Lecture6.1.ipynb)
 - Deep Learning
 - Using pytorch and a 1-level NN
 - Walkthrough of MNIST number sets
@@ -106,7 +106,7 @@ Welcome to the MSAN 2017 Machine Learning 1 unofficial lecture notes website. I'
 
 ---
 
-### [Lecture 10 Notes](ML-Lecture7.1-public.ipynb)
+### [Lecture 10 Notes](ML-Lecture7.1.ipynb)
 - Rewriting the 1-layer NN from scratch
 - Rewrite LinearLayer
 - Rewrite Softmax
@@ -117,7 +117,7 @@ Welcome to the MSAN 2017 Machine Learning 1 unofficial lecture notes website. I'
 
 ---
 
-### [Lecture 11](ML-Lecture7.2-public.ipynb)
+### [Lecture 11](ML-Lecture7.2.ipynb)
 - Rewriting `fit` from scratch
 - Digression of Momentum
 - Rewriting `gradient` and `step` within `fit` function
