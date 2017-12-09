@@ -1,0 +1,9 @@
+Apple is finalizing a deal to acquire Shazam, the app that lets you identify songs, movies, and TV shows from an audio clip, according to TechCrunch. The deal is reportedly for $400 million, according to Recode, which also confirmed the news.
+
+For Apple, the obvious benefit of acquiring Shazam is the company’s music and sound recognition technologies. It will also save some money on the commissions Apple pays Shazam for sending users to its iTunes Store to buy content, which made up the majority of Shazam’s revenue in 2016, and drove 10 percent of all digital download sales, according to The Wall Street Journal.
+
+A side benefit is if Apple decides to shut down the app, it will hurt competing streaming services like Spotify and Google Play Music, where Shazam sends over 1 million clicks a day, the WSJ reported. Shazam also has a deal with Snapchat. It’s unclear how the acquisition will affect any of these agreements.
+
+But the real benefit for Apple may come from Shazam’s augmented reality tech. Earlier this year, Shazam launched an augmend reality platform for brands, building upon the visual recognition technology it launched back in 2015. The technology lets users scan magazines, books, posters, advertisements, and other physical products which could then launch 3D animations, product visualizations, and 360-degree videos. If Apple wanted to, say, build its own version of Google Lens, this could be a good place to start. It would also build on the company’s existing ARKit efforts, which have made iOS a leading platform for AR developers.
+
+With over 1 billion downloads, Shazam has been popular in its nearly 19 years of independence, but the company only pulled in $54 million in revenue in 2016, while losing $5.3 million in the year was a signal it still had a long way to go. Now as a part of Apple, turning a profit won’t be an issue.

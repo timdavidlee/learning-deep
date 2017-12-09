@@ -1,0 +1,3 @@
+{"ID":"id_1","array":[1,2,3],"dict": {"key": "value1"}}
+{"ID":"id_2","array":[2,4,6],"dict": {"key": "value2"}}
+{"ID":"id_3","array":[3,6,9],"dict": {"key": "value3", "extra_key": "extra_value3"}}
