@@ -15,6 +15,8 @@
 - [Slides2](lecture_slides/MSAN694_Week2.pdf)
 - [Slides3](lecture_slides/MSAN694_Week3.pdf)
 - [Slides4](lecture_slides/MSAN694_Week4.pdf)
+- [Slides4](lecture_slides/MSAN694_Week5.pdf)
+- [Slides4](lecture_slides/MSAN694_Week7.pdf) 
 
 #### Examples:
 
